@@ -40,3 +40,4 @@ print("Интервал карты от 200к до 500к не включител
 print_interval(bolnye, 200000, 500000)
 massiv_clinic = ["Диамед","On Clinic","Ваше здоровье","Интертич","UroCenter"]
 #comps(massiv_clinic,input("пишите Диамед, On Clinic, Ваше здоровье, Интертич, UroCenter: "))
+#Эдитирую
